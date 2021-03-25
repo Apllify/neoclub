@@ -24,8 +24,17 @@ a:hover{
     color:dodgerblue;
 }
 
-.background-greek{
-    background-image : url("background.png")
+.background{
+    -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+    filter: blur(5px);
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .text-center{
