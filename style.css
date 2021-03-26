@@ -68,4 +68,10 @@ a:hover{
 .titre {
     font-family: "Times New Roman", Times, serif;
     font-size : 20 px;
+    text-decoration : underline;
+}
+.titre2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size : 16 px;
+    text-decoration : underline;
 }
