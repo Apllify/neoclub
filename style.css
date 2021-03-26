@@ -65,3 +65,7 @@ a:hover{
     background-image: url("background-greek.jpg");
     background-color: #cccccc;
    }
+.titre {
+    font-family: "Times New Roman", Times, serif;
+    font-size : 36px;
+}
