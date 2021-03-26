@@ -50,3 +50,8 @@ a:hover{
     margin:auto;
     width:80%;
 }
+
+.background-image {
+    background-image: url("background-greek.jpg");
+    background-color: #cccccc;
+   }
